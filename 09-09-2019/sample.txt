@@ -1,0 +1,1 @@
+This is a sample relative link by using the text file
